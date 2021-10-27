@@ -1,4 +1,4 @@
-# Front Test
+# Front
 
 Este es el repositorio para la creación del front con el que vamos a realizar las pruebas en el Ciclo 4.
 
@@ -10,10 +10,10 @@ Este es el repositorio para la creación del front con el que vamos a realizar l
 -
 
 ## Octubre 26 de 2021
-Actividades  desarrolladas por cada miembro del equipo
+Actividades desarrolladas por cada miembro del equipo
 
 ### Milena
 
-- Hoye inicialicé el repo de git utilizando el comando `git init`
+- Hoy inicialicé el repo de git utilizando el comando `git init`
 
-- Creé la **organización** [Delfines Azules](https://github.com/DelfinesAzules/) y añadí _tales_
+- Creé la **organización** [Delfines Azules](https://github.com/DelfinesAzules/) y añadí a los _integrantes_.
